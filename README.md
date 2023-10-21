@@ -17,4 +17,4 @@ The dataset is an open and external data and is published by Gender Statistics o
 _Note: The contents of folder "02- Data" is not uploaded._
 
 
-Linke to [**Tableau Story**](https://public.tableau.com/views/Task6_7_16979003724490/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Link to [**Tableau Story**](https://public.tableau.com/views/Task6_7_16979003724490/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
